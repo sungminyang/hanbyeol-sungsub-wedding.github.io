@@ -1916,11 +1916,6 @@ button.mfp-close {
     h1 {
         font-size: 2em
     }
-
-    .slide-image {
-        background: url(./images/g1.jpg);
-        background-position: top center;
-    }
 }
 @media screen and (max-width: 991px) {
     #nav-bar,
