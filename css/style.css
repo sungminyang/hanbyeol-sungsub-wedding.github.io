@@ -1022,7 +1022,8 @@ input[type=submit]:hover:disabled {
     color: #333
 }
 .banner-text.withlove {
-    position: relative
+    position: relative;
+    margin-bottom: 0;
 }
 .banner-text.withlove:after,
 .banner-text.withlove:before {
