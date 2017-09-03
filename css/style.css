@@ -6,6 +6,7 @@ a,
 body {
     color: #6a6a6a;
     max-width: 800px;
+    margin: 0 auto;
 }
 #nav-bar,
 img.fullwidth {
