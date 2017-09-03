@@ -939,6 +939,7 @@ span.de-button {
 .banner-text.withlove {
     display: inline-block;
     margin: 30px auto;
+    margin-bottom: 0;
     text-align: center;
     color: #0f0f0f;
 }
