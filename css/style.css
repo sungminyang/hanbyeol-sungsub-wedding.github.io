@@ -1033,7 +1033,7 @@ input[type=submit]:hover:disabled {
     color: #e1dddd
 }
 .banner-text.withlove:after {
-    color: #ff1493	;
+    color: #ffb6c1;
     margin-right: 19px
 }
 .white-box-content-wrapper {
@@ -1813,7 +1813,7 @@ footer .image-divider.fixed-height {
     width: 100%
 }
 #gallery-section {
-    margin: 80px 0 40px 0;
+    margin: 80px 0 0 0;
 }
 #gallery-section .photo-item {
     margin-bottom: 30px
@@ -1858,7 +1858,7 @@ h2#dont-miss-it-title {
 #gift-section,
 #groomsmen-section,
 #rsvp-section {
-    padding: 50px 0
+    padding: 0 0 40px 0;
 }
 .bridesmaid-item,
 .groomsmen-item {
@@ -2279,7 +2279,7 @@ button.mfp-close {
         #groomsmen-section,
         #more-events,
         #rsvp-section {
-            padding: 80px 0
+            padding: 0 0 0 40px 0;
         }
     }
     @media screen and (max-width: 320px) {
