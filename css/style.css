@@ -113,7 +113,7 @@ h6.inline {
 p {
     font-size: 15px;
     line-height: 26px;
-    margin-bottom: 25px
+    margin: 0;
 }
 p.lead {
     font-size: 19px;
@@ -747,7 +747,7 @@ img.with-border {
     padding: 145px 0 120px
 }
 .outside-bottom-bar-page #content {
-    margin-top: 145px
+    margin-top: 0px
 }
 .sidebar-wrapper {
     width: 100%;
@@ -2088,7 +2088,7 @@ button.mfp-close {
         padding: 100px 0 80px
     }
     .outside-bottom-bar-page #content {
-        margin-top: 100px
+        margin-top: 0px
     }
     .divider-wrapper {
         padding: 70px 0
