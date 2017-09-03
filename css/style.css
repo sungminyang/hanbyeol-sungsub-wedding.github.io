@@ -780,7 +780,7 @@ img.with-border {
 
 }
 .section-title h2 {
-    margin-top: 80px;
+    margin: 60px 0 40px 0;
 }
 .icon-title {
     position: absolute;
@@ -1813,7 +1813,7 @@ footer .image-divider.fixed-height {
     width: 100%
 }
 #gallery-section {
-    margin-top: 80px;
+    margin: 80px 0 40px 0;
 }
 #gallery-section .photo-item {
     margin-bottom: 30px
