@@ -36,7 +36,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Noto Sans KR', sans-serif
+
 }
 h1,
 h1 a,
@@ -111,7 +111,6 @@ h6.inline {
     vertical-align: middle
 }
 p {
-    font-family: Arvo, 'Noto Sans KR', serif;
     font-size: 15px;
     line-height: 26px;
     margin-bottom: 25px
@@ -201,7 +200,6 @@ img.with-border {
     list-style-type: none;
     margin: 0;
     padding: 45px 0 0;
-    font-family: Oswald, 'Noto Sans KR', sans-serif;
     font-size: 13px;
     z-index: 1000
 }
@@ -237,7 +235,6 @@ img.with-border {
     display: inline
 }
 #nav-menu>li:before {
-    font-family: fontello;
     font-style: normal;
     font-weight: 400;
     font-size: 10px;
@@ -434,12 +431,10 @@ img.with-border {
 #side-nav-menu {
     position: relative;
     margin: 35px 35px 100px;
-    font-family: Oswald, 'Noto Sans KR', sans-serif;
     font-size: 14px;
     z-index: 1000
 }
 #side-nav-menu>li>a:before {
-    font-family: fontello;
     font-style: normal;
     font-weight: 400;
     font-size: 10px;
@@ -503,7 +498,6 @@ img.with-border {
     border-radius: 0;
     background-color: #f0394d;
     text-align: center;
-    font-family: Arvo, 'Noto Sans KR', serif
 }
 .css-logo.rounded {
     border-radius: 50%
@@ -619,7 +613,6 @@ img.with-border {
     vertical-align: bottom
 }
 #save-the-date {
-    font-family: Pacifico, 'Noto Sans KR', cursive;
     -ms-transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
     transform: rotate(-10deg);
@@ -932,7 +925,6 @@ span.de-button {
     display: inline-block;
     margin: 20px auto 0;
     background-color: #FFF;
-    font-family: Oswald, 'Noto Sans KR', sans-serif;
     border: 1px solid #6a6a6a
 }
 .banner-text,
@@ -1509,13 +1501,11 @@ a:hover .de-icon.effect3 {
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #ccc
 }
 form label {
-    font-family: Oswald, 'Noto Sans KR', sans-serif;
     font-size: 14px;
     font-weight: 400
 }
 .option-label,
 form .btn-primary {
-    font-family: Arvo, 'Noto Sans KR', serif;
     color: #6a6a6a;
     font-size: 13px
 }
@@ -1548,24 +1538,20 @@ form .btn-primary:hover {
     text-align: left
 }
 .ajax-checkbox .btn.custom-option-icon:before {
-    font-family: fontello;
     content: "\ecd4";
     margin-right: 7px
 }
 .ajax-checkbox .btn.active-icon.custom-option-icon:before {
-    font-family: fontello;
     content: "\ecd3";
     margin-right: 7px
 }
 .ajax-radio .btn.custom-option-icon:before {
-    font-family: fontello;
     content: "\e914";
     margin-right: 7px;
     font-size: 16px;
     font-weight: 700
 }
 .ajax-radio .btn.active-icon.custom-option-icon:before {
-    font-family: fontello;
     content: "\e917";
     margin-right: 7px;
     font-size: 16px;
@@ -1614,7 +1600,6 @@ form .has-error .btn-primary {
     padding: 140px 0 100px
 }
 .couple-name {
-    font-family: Pacifico, 'Noto Sans KR', cursive;
     font-size: 41px;
     padding-top: 100px;
     color: #FFF;
@@ -1627,7 +1612,6 @@ form .has-error .btn-primary {
 }
 #counting-down {
     color: #FFF;
-    font-family: Pacifico, 'Noto Sans KR';
     transform: rotate(-10deg);
     margin-top: 0;
     margin-bottom: 25px
@@ -1648,7 +1632,6 @@ form .has-error .btn-primary {
     border: none;
     background-color: transparent;
     color: #FFF;
-    font-family: Oswald, 'Noto Sans KR', sans-serif;
     font-size: 13px
 }
 .simple-countdown .countdown-amount,
@@ -1677,7 +1660,6 @@ footer .image-divider.fixed-height {
 }
 #thank-you {
     color: #FFF;
-    font-family: Pacifico;
     -ms-transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
     transform: rotate(-10deg);
@@ -1690,7 +1672,6 @@ footer .image-divider.fixed-height {
     line-height: 45px
 }
 #footer-couple-name {
-    font-family: Oswald, 'Noto Sans KR', sans-serif;
     font-size: 20px;
     color: #FFF;
     letter-spacing: 3px;
@@ -1718,7 +1699,6 @@ footer .image-divider.fixed-height {
     margin-bottom: 40px
 }
 #invited {
-    font-family: Pacifico, 'Noto Sans KR', cursive;
     font-size: 36px;
     margin-top: 70px
 }
@@ -1736,14 +1716,12 @@ footer .image-divider.fixed-height {
     margin-bottom: 20px
 }
 .his-her-name .last-name {
-    font-family: Pacifico, cursive;
     font-size: 24px;
     display: block;
     margin-top: 0
 }
 .story-date .date-only,
 .story-date .month-year {
-    font-family: Oswald, 'Noto Sans KR', sans-serif;
     color: #FFF
 }
 .his-her-name .heart-wrapper {
@@ -1846,7 +1824,6 @@ footer .image-divider.fixed-height {
 h2#dont-miss-it-title {
     font-size: 42px;
     margin-bottom: 30px;
-    font-family: Pacifico, cursive
 }
 .circle-countdown {
     width: 100%;
@@ -1855,7 +1832,6 @@ h2#dont-miss-it-title {
 .circle-countdown.is-countdown {
     background-color: transparent;
     border: none;
-    font-family: Oswald, 'Noto Sans KR', sans-serif
 }
 .circle-countdown .countdown-amount {
     background-color: #f0394d;
@@ -2154,7 +2130,6 @@ button.mfp-close {
         margin: auto
     }
     .story-date .month-year {
-        font-family: Oswald, 'Noto Sans KR', sans-serif;
         font-size: 16px;
         color: #FFF
     }
@@ -2345,7 +2320,6 @@ button.mfp-close {
         #thank-you {
             text-align: center;
             color: #FFF;
-            font-family: Pacifico;
             -ms-transform: rotate(-10deg);
             -webkit-transform: rotate(-10deg);
             transform: rotate(-10deg);
@@ -2359,7 +2333,6 @@ button.mfp-close {
             line-height: 35px
         }
         #footer-couple-name {
-            font-family: Oswald, 'Noto Sans KR', sans-serif;
             font-size: 15px;
             color: #FFF;
             letter-spacing: 3px;
