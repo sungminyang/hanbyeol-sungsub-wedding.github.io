@@ -1006,9 +1006,10 @@ input[type=submit]:hover:disabled {
     width: 100%
 }
 .banner-text.light {
-    color: #FFF;
+    color: #0f0f0f;
 }
 .banner-text.light * {
+    font-family: 'Nanum Myeongjo';
     color: #0f0f0f;
 }
 .banner-text.dark {
