@@ -780,6 +780,7 @@ img.with-border {
 
 }
 .section-title h2 {
+    margin-top: 80px;
 }
 .icon-title {
     position: absolute;
@@ -1702,7 +1703,6 @@ footer .image-divider.fixed-height {
     letter-spacing: 3px;
     font-size: 14px;
     color: #0f0f0f;
-    font-weight: bold;
 }
 .his-her-name {
     position: relative
@@ -1813,7 +1813,7 @@ footer .image-divider.fixed-height {
     width: 100%
 }
 #gallery-section {
-
+    margin-top: 80px;
 }
 #gallery-section .photo-item {
     margin-bottom: 30px
