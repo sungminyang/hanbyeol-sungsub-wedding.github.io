@@ -1033,7 +1033,7 @@ input[type=submit]:hover:disabled {
     color: #e1dddd
 }
 .banner-text.withlove:after {
-    color: #f0394d;
+    color: #ff1493	;
     margin-right: 19px
 }
 .white-box-content-wrapper {
