@@ -1007,8 +1007,6 @@ input[type=submit]:hover:disabled {
 }
 .banner-text.dark {
     color: #6a6a6a;
-    border-top: medium double #6a6a6a;
-    border-bottom: medium double #6a6a6a
 }
 .banner-text.dark * {
     color: #333
