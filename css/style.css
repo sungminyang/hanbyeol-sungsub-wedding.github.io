@@ -134,7 +134,7 @@ img.with-border {
 }
 .subtitle {
     padding-top: 20px;
-    text-decoration: underline;
+    border-bottom: 1px solid #0f0f0f;
 }
 #nav-bar {
     position: relative;
