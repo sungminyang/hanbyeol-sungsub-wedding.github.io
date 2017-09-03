@@ -1814,7 +1814,7 @@ footer .image-divider.fixed-height {
     width: 100%
 }
 #gallery-section {
-    padding: 140px 0
+    padding: 80px 0 0 0
 }
 #gallery-section .photo-item {
     margin-bottom: 30px
@@ -1859,7 +1859,7 @@ h2#dont-miss-it-title {
 #gift-section,
 #groomsmen-section,
 #rsvp-section {
-    padding: 140px 0
+    padding: 50px 0
 }
 .bridesmaid-item,
 .groomsmen-item {
