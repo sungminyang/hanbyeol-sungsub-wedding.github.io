@@ -938,9 +938,9 @@ span.de-button {
 .banner-text,
 .banner-text.withlove {
     display: inline-block;
-    font-family: Oswald, 'Noto Sans KR', sans-serif;
     margin: 30px auto;
-    text-align: center
+    text-align: center;
+    color: #0f0f0f;
 }
 a.de-button.outline,
 input[type=submit].outline,
@@ -1722,9 +1722,9 @@ footer .image-divider.fixed-height {
     margin-top: 70px
 }
 #banner-date {
-    font-family: Oswald, 'Noto Sans KR', sans-serif;
     letter-spacing: 3px;
-    font-size: 14px
+    font-size: 14px;
+    color: #0f0f0f;
 }
 .his-her-name {
     position: relative
